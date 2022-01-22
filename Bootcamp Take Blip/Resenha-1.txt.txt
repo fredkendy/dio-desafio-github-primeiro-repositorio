@@ -1,0 +1,38 @@
+Introdução a Lógica e a Programação
+
+-Coerência de raciocínio
+-Algoritmo: Sequência de passos para resolução de problemas
+-Pseudocódigo: Forma genérica de escrever código, simples entendimento
+-Fluxograma: Representar graficamente o algoritmo
+-Palavras-chave: Memória, variáveis, Constantes, Expressões, Decisão, Concatenação, Desvio condicional, Laços de repetição, Vetores e Matrizes, Funções 
+-Programas: Flowgorithm, Portugol
+
+Primeiros Passos para Começar a Programar
+
+-Pensar computacionalmente -> Minimizar esforços e otimizar recursos
+-Berço da computação: Alan Turing -> Conceito de Algoritmo
+-Evolução exponencial
+-Surgimento da Engenharia de Software
+
+Lógica de Programação
+
+-Problema + Instruções assertivas a um algoritmo = Resolução
+-Técnicas: Linear, Estruturada e Modular
+-Desenvolvimento Programa: Análise -> Algoritmo -> Codificação
+-Fluxo computacional: Entrada -> Processamento -> Saída de Dados
+-Operadores lógicos: AND - OR - NOT
+-Linguagem de Programação: Método padronizado com regras sintáticas e semânticas de implementação de um código fonte -> Tradução + Interpretação
+-Compilador executa análise de código (Léxica, sintática e semântica)
+-Paradigmas de Programação: Procedural, Orientação a Objeto, Funcional, Estruturado, Computação Distribuída, Lógico
+
+Estrutura de Dados
+-Organização de dados na memória de um computador
+-Inserção, Exclusão, Localização, Visualização, Classificação
+-Vetores e Matrizes, Registro, Listas, Pilhas, Filas, Árvores, Tabelas Hash, Grafos
+
+Introdução ao Git e ao GitHub
+-Versionamento de código, diferentes versões de arquivos na "nuvem" (Git)
+-Repositório de código, armazenamento (GitHub)
+-Principais comandos: dir - cd/ - cd .. - mkdir - echo - del - rmdir
+-Comandos GIT: git init - git add - git commit - git status - git push - git pull
+-Palavras-chave: SHA1, Blobs, Trees, Commits, Chaves SSH, Token, Untracked, Tracked, Unmodified, Modified, Staged
